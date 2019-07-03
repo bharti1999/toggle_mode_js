@@ -1,0 +1,23 @@
+body{
+	background-color: white;
+}
+#toggle{
+	height: 30px;
+	width: 120px;
+	border-radius: 100px;
+	border:2px black solid;
+	margin-left: 580px;
+	margin-top: 60px;
+	margin-bottom:95px; 
+}
+#toggle-button{
+	height: 90%;
+	margin: 1px;
+	width: 25%;
+	border-radius: 100%;
+	background-color: black;
+}
+h1{
+	font-size: 60px;
+	text-align: center;
+}
